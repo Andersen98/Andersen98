@@ -4,6 +4,4 @@
 - 💞️ I’m looking to collaborate on math physics coffee or computer projects
 - 📫 How to reach me: maeve.andersen@colorado.edu
 
-<!---
-Andersen98/Andersen98 is a ✨ special ✨ repository because it has a `README.md` (this file) 
---->
+Andersen98 is a ✨ special ✨ person because she has a `README.md` (this file) 
